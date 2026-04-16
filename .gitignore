@@ -1,0 +1,9 @@
+*.log
+.DS_Store
+.idea/
+.vscode/
+__pycache__/
+*.pyc
+.env
+.env.*
+!.env.example
