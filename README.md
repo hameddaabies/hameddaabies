@@ -24,11 +24,11 @@ I build **production-grade data pipelines** that scrape, enrich with LLMs, and d
 ### What I ship
 
 ```text
-┌──────────────┐   ┌──────────────┐   ┌──────────────┐   ┌──────────────┐
-│   Scrapers   │ → │  ETL / ELT   │ → │ LLM / ML     │ → │ Structured   │
-│ Scrapy + PW  │   │ AWS · GCP    │   │ Enrichment   │   │ Output       │
-│ Zyte · Diffbot│   │ MySQL        │   │ Classification│   │ Search / App │
-└──────────────┘   └──────────────┘   └──────────────┘   └──────────────┘
+┌────────────────┐   ┌────────────────┐   ┌────────────────┐   ┌────────────────┐
+│    Scrapers    │ → │   ETL / ELT    │ → │    LLM / ML    │ → │   Structured   │
+│  Scrapy + PW   │   │   AWS · GCP    │   │   Enrichment   │   │     Output     │
+│ Zyte · Diffbot │   │     MySQL      │   │ Classification │   │  Search / App  │
+└────────────────┘   └────────────────┘   └────────────────┘   └────────────────┘
 ```
 
 - **LLM integration** — OpenAI API, structured JSON outputs, retry & cost tracking
