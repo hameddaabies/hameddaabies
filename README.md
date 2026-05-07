@@ -54,9 +54,9 @@ I build **production-grade data pipelines** that scrape, enrich with LLMs, and d
 
 ### Pinned projects
 
-- 🔸 **[llm-etl-pipeline-template](https://github.com/HamedDaabies/llm-etl-pipeline-template)** — OpenAI-powered ETL with structured outputs, retries, and cost tracking
-- 🔸 **[scrapy-playwright-template](https://github.com/HamedDaabies/scrapy-playwright-template)** — Production scraper scaffold with Playwright, proxy rotation, and anti-bot handling
-- 🔸 **[product-matcher-faiss](https://github.com/HamedDaabies/product-matcher-faiss)** — Hybrid BM25 + FAISS HNSW product matcher for heterogeneous catalogs
+- 🔸 **[llm-etl-pipeline-template](https://github.com/HamedDaabies/llm-etl-pipeline-template)** — OpenAI ETL scaffold with structured outputs, retries, multi-provider cost tracking, typed Pydantic config, and pluggable JSONL/SQLite loaders
+- 🔸 **[scrapy-playwright-template](https://github.com/HamedDaabies/scrapy-playwright-template)** — Scrapy + Playwright scaffold with UA rotation, proxy middleware, Pydantic validation pipeline, and example spiders
+- 🔸 **[product-matcher-faiss](https://github.com/HamedDaabies/product-matcher-faiss)** — Hybrid BM25 + FAISS HNSW matcher with unit-aware tokenization, index persistence, and precision@1 / recall@5 evaluation
 
 ### Stats
 
