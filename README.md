@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.upwork.com/freelancers/hameddaabies"><img src="https://img.shields.io/badge/Upwork-Top%20Rated%20Plus-6fda44?style=for-the-badge&logo=upwork&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/hameddaabies/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="mailto:daabiesh@gmail.com"><img src="https://img.shields.io/badge/Email-daabiesh%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.upwork.com/freelancers/hameddaabies"><img alt="Upwork Top Rated Plus" src="https://img.shields.io/badge/Upwork-Top%20Rated%20Plus-6fda44?style=for-the-badge&logo=upwork&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/hameddaabies/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:daabiesh@gmail.com"><img alt="Email daabiesh@gmail.com" src="https://img.shields.io/badge/Email-daabiesh%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
 
 ---
@@ -61,8 +61,8 @@ I build **production-grade data pipelines** that scrape, enrich with LLMs, and d
 ### Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=HamedDaabies&show_icons=true&hide_border=true&theme=default" height="160">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamedDaabies&layout=compact&hide_border=true&theme=default" height="160">
+  <img alt="HamedDaabies GitHub stats" src="https://github-readme-stats.vercel.app/api?username=HamedDaabies&show_icons=true&hide_border=true&theme=default" height="160">
+  <img alt="HamedDaabies top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamedDaabies&layout=compact&hide_border=true&theme=default" height="160">
 </p>
 
 ---
