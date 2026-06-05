@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="[https://www.upwork.com/freelancers/hameddaabies](https://www.upwork.com/freelancers/~01260b5b957fd42c34)"><img alt="Upwork Top Rated Plus" src="https://img.shields.io/badge/Upwork-Top%20Rated%20Plus-6fda44?style=for-the-badge&logo=upwork&logoColor=white"></a>
+  <a href="https://www.upwork.com/freelancers/~01260b5b957fd42c34"><img alt="Upwork Top Rated Plus" src="https://img.shields.io/badge/Upwork-Top%20Rated%20Plus-6fda44?style=for-the-badge&logo=upwork&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/hameddaabies/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:daabiesh@gmail.com"><img alt="Email daabiesh@gmail.com" src="https://img.shields.io/badge/Email-daabiesh%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </p>
