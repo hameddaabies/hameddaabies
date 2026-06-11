@@ -67,4 +67,4 @@ I build **production-grade data pipelines** that scrape, enrich with LLMs, and d
 
 ---
 
-📬 **Open to remote data engineering work** — hit me up on [Upwork](https://www.upwork.com/freelancers/hameddaabies) or drop an email.
+📬 **Open to remote data engineering work** — hit me up on [Upwork](https://www.upwork.com/freelancers/~01260b5b957fd42c34) or drop an email.
