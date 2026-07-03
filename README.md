@@ -56,7 +56,7 @@ I build **production-grade data pipelines** that scrape, enrich with LLMs, and d
 
 - 🔸 **[llm-etl-pipeline-template](https://github.com/HamedDaabies/llm-etl-pipeline-template)** — OpenAI ETL scaffold with structured outputs, retries, per-model cost tracking with a hard budget cap that halts enrichment, typed Pydantic config, and pluggable JSONL/SQLite loaders
 - 🔸 **[scrapy-playwright-template](https://github.com/HamedDaabies/scrapy-playwright-template)** — Scrapy + Playwright scaffold with UA rotation, proxy + cookie-session + URL-deny middlewares, a Pydantic validation pipeline that records schema-drop crawl stats, and fixture-tested example spiders
-- 🔸 **[product-matcher-faiss](https://github.com/HamedDaabies/product-matcher-faiss)** — Hybrid BM25 + FAISS HNSW matcher with unit-aware tokenization, index persistence, an F1-tuned accept/decline match decision, and precision@1 / recall@5 + hybrid-mix evaluation sweeps
+- 🔸 **[product-matcher-faiss](https://github.com/HamedDaabies/product-matcher-faiss)** — Hybrid BM25 + FAISS HNSW matcher with unit-aware, accent-invariant tokenization for multilingual catalogs, index persistence, an F1-tuned accept/decline match decision, and precision@1 / recall@5 + hybrid-mix evaluation sweeps
 
 ### Stats
 
