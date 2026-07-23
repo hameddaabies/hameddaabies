@@ -63,8 +63,14 @@ _Each scaffold below ships with a runnable `pytest` suite, so the examples pass 
 ### Stats
 
 <p>
-  <img alt="HamedDaabies GitHub stats" src="https://github-readme-stats.vercel.app/api?username=HamedDaabies&show_icons=true&hide_border=true&theme=default" height="160">
-  <img alt="HamedDaabies top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamedDaabies&layout=compact&hide_border=true&theme=default" height="160">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=HamedDaabies&show_icons=true&hide_border=true&theme=dark">
+    <img alt="HamedDaabies GitHub stats" src="https://github-readme-stats.vercel.app/api?username=HamedDaabies&show_icons=true&hide_border=true&theme=default" height="160">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=HamedDaabies&layout=compact&hide_border=true&theme=dark">
+    <img alt="HamedDaabies top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamedDaabies&layout=compact&hide_border=true&theme=default" height="160">
+  </picture>
 </p>
 
 ---
