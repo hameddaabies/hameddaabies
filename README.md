@@ -35,6 +35,7 @@ I build **production-grade data pipelines** that scrape, enrich with LLMs, and d
 - **Web scraping at scale** — Scrapy, Playwright, anti-bot escalation, proxy tiers
 - **ETL pipelines** — Python, SQL, AWS S3, GCP, MySQL
 - **Product matching** — sentence-transformers, FAISS HNSW, hybrid BM25 + ANN blocking
+- **Reproducible runs** — idempotent upserts, deterministic ranking tie-breaks, fixture-driven tests so a re-run lands the same result
 - **Automation** — replacing manual data ops with reliable Python code
 
 ### Tech stack
